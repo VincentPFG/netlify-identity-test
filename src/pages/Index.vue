@@ -5,7 +5,7 @@ Layout
 </template>
 
 <script lang='coffee'>
-console.log netlifyIdentity.init?
+console.log netlifyIdentity?
 </script>
 
 <style lang="sass">
