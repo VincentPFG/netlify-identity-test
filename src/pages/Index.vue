@@ -5,7 +5,7 @@ Layout
 </template>
 
 <script lang='coffee'>
-import 'netlify-identity-widget'
+# import 'netlify-identity-widget'
 </script>
 
 <style lang="sass">
