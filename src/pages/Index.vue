@@ -5,8 +5,7 @@ Layout
 </template>
 
 <script lang='coffee'>
-# import 'netlify-identity-widget'
-console.log 'défini' if netlifyIdentity?
+console.log netlifyIdentity.init?
 </script>
 
 <style lang="sass">
