@@ -6,6 +6,7 @@ Layout
 
 <script lang='coffee'>
 # import 'netlify-identity-widget'
+console.log 'défini' if netlifyIdentity?
 </script>
 
 <style lang="sass">
